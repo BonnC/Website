@@ -1,4 +1,6 @@
-
+Body {
+  background-color: Navy;
+}
 h1 {font-size: 33px;
   color: white;
 }
@@ -8,6 +10,6 @@ h2 {font-size: 26px;
 h3 {font-size: 26px;
   color: white;
 }
-p {font-size: 16px;
-  color: Islamic Green;
+h1 {
+  font-family: Times, Helvetica;
 }
