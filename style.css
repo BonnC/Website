@@ -1,3 +1,13 @@
-body {
-  color: NavyBlue;
+
+h1 {font-size: 33px;
+  color: white;
+}
+h2 {font-size: 26px;
+  color: white;
+}
+h3 {font-size: 26px;
+  color: white;
+}
+p {font-size: 16px;
+  color: Islamic Green;
 }
