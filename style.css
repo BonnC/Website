@@ -1,5 +1,9 @@
 /* Website Styles */
 
+* {
+  font-size: 100%
+}
+
 Body {
   background-color: Navy;
   font-family: cursive;
