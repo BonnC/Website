@@ -1,5 +1,6 @@
 Body {
   background-color: Navy;
+  font-family: cursive;
 }
 
 h1 {font-size: 33px;
@@ -15,5 +16,13 @@ h3 {font-size: 26px;
 }
 
 h1 {
-  font-family: Times, Helvetica;
+  font-family: Indie Flower, cursive;
+}
+
+h2 {
+  font-family: Indie Flower, cursive;
+}
+
+h3 {
+  font-family: Indie Flower, cursive;
 }
