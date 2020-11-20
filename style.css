@@ -88,3 +88,10 @@ img {
   width: auto;
   height: auto;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
