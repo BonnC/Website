@@ -1,6 +1,7 @@
 /* Website Styles */
 
 Body {
+  background-image: url(images/pattern.png);
   background-color: Navy;
   padding: 30px;
 }
@@ -83,7 +84,7 @@ img {
 }
 
 .box {
-  background-image: url(canucks riots.jpg);
+  background-image: url();
   width: auto;
   height: auto;
 }
