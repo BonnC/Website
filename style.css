@@ -81,8 +81,10 @@ footer p {
 img {
   width: auto;
   height: 300px;
-  margin-left: auto;
+}
 
+p. ex1 {
+  margin-left: auto;
 }
 
 .box {
