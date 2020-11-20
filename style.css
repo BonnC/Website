@@ -2,7 +2,7 @@
 
 Body {
   background-color: Navy;
-  margin: 50px;
+  padding: 30px;
 }
 
 * {
@@ -14,18 +14,21 @@ h1 {font-size: 40px;
   color: white;
   text-align: center;
   margin-bottom: 20px;
+  padding-top: 30px;
 }
 
 h2 {font-size: 30px;
   color: white;
   text-align: center;
   margin-bottom: 20px;
+  padding-top: 30px;
 }
 
 h3 {font-size: 30px;
   color: white;
   text-align: center;
   margin-bottom: 20px;
+  padding-top: 30px;
 }
 
 h1 {
