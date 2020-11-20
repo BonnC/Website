@@ -1,8 +1,9 @@
 /* Website Styles */
 
-Body .about{
+Body {
   background-color: Navy;
   padding: 30px;
+  text-decoration: overline;
 }
 
 * {
