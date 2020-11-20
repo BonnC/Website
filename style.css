@@ -8,6 +8,7 @@ Body {
 * {
   margin: 0;
   line-height: 1;
+  box-sizing: border-box;
   /* border: 1px solid red; */
 }
 h1 {font-size: 40px;
@@ -72,4 +73,9 @@ p {
 
 footer p {
   font-size: 18px;
+}
+
+img {
+  width:auto;
+  height: 300px;
 }
