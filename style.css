@@ -81,3 +81,7 @@ img {
   width: auto;
   height: 300px;
 }
+
+.box {
+  background-image: url(canucks riots);
+}
