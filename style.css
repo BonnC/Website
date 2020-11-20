@@ -2,8 +2,14 @@
 
 Body {
   background-color: Navy;
+  margin: 50px;
 }
 
+* {
+  margin: 0;
+  line-height: 1;
+  /* border: 1px solid red; */
+}
 h1 {font-size: 40px;
   color: white;
   text-align: center;
